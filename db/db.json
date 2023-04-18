@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "anil@test.com",
+      "name": "Anil Sidhu",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "email": "mandy@test.com",
+      "name": "mandy",
+      "password": "mandy@123",
+      "id": 2
+    },
+    {
+      "email": "bruce@test.com",
+      "name": "Bruce",
+      "password": "bruce@123",
+      "id": 3
+    },
+    {
+      "email": "ree@test.com",
+      "name": "ree",
+      "password": "ree@123",
+      "id": 4
+    },
+    {
+      "email": "sam@test.com",
+      "name": "sam",
+      "password": "sam@123",
+      "id": 5
+    },
+    {
+      "email": "john@test.com",
+      "name": "john",
+      "password": "john@123",
+      "id": 6
+    },
+    {
+      "email": "bat@test.com",
+      "name": "bat",
+      "password": "bat@123",
+      "id": 7
+    }
+  ]
+}

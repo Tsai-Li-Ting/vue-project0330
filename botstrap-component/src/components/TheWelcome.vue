@@ -6,6 +6,8 @@ import Accordion from './Accordion.vue'
 import Navbar from './Navbar.vue'
 import ListGroup from './ListGroup.vue'
 import Table from './Table.vue'
+import Select from './Select.vue'
+import ChecksAndRadios from './ChecksAndRadios.vue'
 import DocumentationIcon from './icons/IconDocumentation.vue'
 import ToolingIcon from './icons/IconTooling.vue'
 import EcosystemIcon from './icons/IconEcosystem.vue'
@@ -17,6 +19,8 @@ import SupportIcon from './icons/IconSupport.vue'
   <Navbar></Navbar>
   <Button></Button>
   <ListGroup></ListGroup>
+  <ChecksAndRadios></ChecksAndRadios>
+  <Select></Select>
   <Table></Table>
   <Alerts></Alerts>
   <Accordion></Accordion>
