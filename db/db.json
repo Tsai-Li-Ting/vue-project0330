@@ -21,22 +21,34 @@
   ],
   "restaurants": [
     {
-      "id":1,
-      "name":"Burger King",
-      "contact":111111,
-      "address":"Noida sector 50"
+      "id": 1,
+      "name": "Burger King",
+      "contact": 111111,
+      "address": "Noida sector 50"
     },
     {
-      "id":2,
-      "name":"Dominos",
-      "contact":222222,
-      "address":"Gurgaon sector 20"
+      "id": 2,
+      "name": "Dominos",
+      "contact": 222222,
+      "address": "Gurgaon sector 20"
     },
     {
-      "id":3,
-      "name":"KFC",
-      "contact":333333,
-      "address":"Delgi CP"
+      "id": 3,
+      "name": "KFC",
+      "contact": 333333,
+      "address": "Delgi CP"
+    },
+    {
+      "name": "MC",
+      "contact": "KMNHBGVC",
+      "address": "12363",
+      "id": 4
+    },
+    {
+      "name": "tyey",
+      "contact": "tey",
+      "address": "yy",
+      "id": 5
     }
   ]
 }
